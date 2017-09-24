@@ -1,1 +1,1 @@
-# opencv(Computer Vision) fro python
+# opencv(Computer Vision) for python
